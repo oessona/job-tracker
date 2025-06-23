@@ -67,8 +67,6 @@ cd job-application-tracker
 Create .env file:
 
 env
-Копировать
-Редактировать
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
