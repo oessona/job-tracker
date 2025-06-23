@@ -41,10 +41,6 @@ job-tracker/
 └── README.md
 
 yaml
-Копировать
-Редактировать
-
----
 
 ## 🧪 API Endpoints
 
@@ -82,8 +78,6 @@ JWT_SECRET=super-secret-key
 Run the server:
 
 bash
-Копировать
-Редактировать
 go run cmd/server/main.go
 Server will start on: http://localhost:8080
 
@@ -107,4 +101,6 @@ Deploy with Docker
 Build a frontend with React or Vue
 
 🧑‍💻 Author
-Made with ❤️ by @your-name
+Made with ❤️ by @oessona
+
+
